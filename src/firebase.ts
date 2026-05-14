@@ -4,7 +4,7 @@ import { getFirestore } from 'firebase/firestore';
 
 // This is your new manual config for Neon Nexus Remastered
 const firebaseConfig = {
-  apiKey: "AiZaSyAkU09HI8X4Y69VNxaF4K6XZqe7bVJ1U",
+  apiKey: "AIzaSyAkU09HI8X4Y69VNxaf4K46XKZqe7bVJ1U",
   authDomain: "neon-nexus-remastered.firebaseapp.com",
   projectId: "neon-nexus-remastered",
   storageBucket: "neon-nexus-remastered.firebasestorage.app",
